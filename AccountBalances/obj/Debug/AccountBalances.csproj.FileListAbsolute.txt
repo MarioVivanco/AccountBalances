@@ -1,0 +1,6 @@
+C:\Users\Mario Vivanco\Documents\UofP\PRG_409\Week 3\AccountBalances\AccountBalances\bin\Debug\AccountBalances.exe.config
+C:\Users\Mario Vivanco\Documents\UofP\PRG_409\Week 3\AccountBalances\AccountBalances\bin\Debug\AccountBalances.exe
+C:\Users\Mario Vivanco\Documents\UofP\PRG_409\Week 3\AccountBalances\AccountBalances\bin\Debug\AccountBalances.pdb
+C:\Users\Mario Vivanco\Documents\UofP\PRG_409\Week 3\AccountBalances\AccountBalances\obj\Debug\AccountBalances.csprojResolveAssemblyReference.cache
+C:\Users\Mario Vivanco\Documents\UofP\PRG_409\Week 3\AccountBalances\AccountBalances\obj\Debug\AccountBalances.exe
+C:\Users\Mario Vivanco\Documents\UofP\PRG_409\Week 3\AccountBalances\AccountBalances\obj\Debug\AccountBalances.pdb
